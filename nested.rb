@@ -17,7 +17,7 @@ def hopper
 
 
      }
-	 h.hopper(grace_hopper)
+	 h.programmer_hash(grace_hopper)
 
 
 end
