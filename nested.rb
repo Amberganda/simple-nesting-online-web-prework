@@ -17,7 +17,7 @@ def hopper
 
 
      }
-	 h.fetch(grace_hopper)
+	 h.hopper(grace_hopper)
 
 
 end
